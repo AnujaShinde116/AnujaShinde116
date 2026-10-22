@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gifdb.com/images/thumbnail/spring-night-purple-aesthetic-xq9ph0d7t3v3j7n3.gif" width="350" alt="spring night aesthetic" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:7AA7D9,100:B39DDB&text=Anuja+Shinde&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data+Engineering+%26+Computer+Vision&descSize=18&descAlignY=58" width="100%" alt="Anuja Shinde banner" />
 </div>
 
 <h1 align="center">🦋💙 Hi, I'm Anuja ✨</h1>
@@ -202,4 +202,8 @@
 
 <div align="center">
   <sub>Anuja 💙</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:B39DDB,100:7AA7D9" width="100%" alt="footer" />
 </div>
