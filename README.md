@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:7AA7D9,100:B39DDB&text=Anuja+Shinde&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data+Engineering+%26+Computer+Vision&descSize=18&descAlignY=58" width="100%" alt="Anuja Shinde banner" />
+  <img src="https://raw.githubusercontent.com/AnujaShinde116/AnujaShinde116/main/header.gif.jpg" width="400" alt="header" />
 </div>
 
 <h1 align="center">🦋💙 Hi, I'm Anuja ✨</h1>
