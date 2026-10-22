@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnujaShinde116/AnujaShinde116/main/header.gif.jpg" width="400" alt="header" />
+  <img src="https://raw.githubusercontent.com/AnujaShinde116/AnujaShinde116/main/header.jpg" width="450" alt="header" />
 </div>
 
 <h1 align="center">🦋💙 Hi, I'm Anuja ✨</h1>
@@ -7,8 +7,6 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f7/40/63/f740634861b71c1f2c1b99e3e3af2f8d.gif" width="400" alt="aesthetic gif" />
-  <br><br>
   <table>
     <tr>
       <td align="center">
@@ -42,12 +40,7 @@
         </ul>
       </td>
       <td align="center" valign="middle" width="40%">
-        <b>🦋 Quick facts</b><br><br>
-        📍 Bengaluru, India<br>
-        🎓 B.Tech CSE (Data Science), 2023–2027<br>
-        🔭 Capstone: CogR-VOS<br>
-        🛠️ Web Master, IEEE ITS Society<br>
-        🏆 Organizer, HackVerse 2025
+        <img src="https://raw.githubusercontent.com/AnujaShinde116/AnujaShinde116/main/heheh.gif" width="260" alt="aesthetic gif" />
       </td>
     </tr>
   </table>
